@@ -1,0 +1,16 @@
+,train,test
+accuracy,0.883008,0.887376
+balanced_accuracy,0.533723,0.536962
+matthews_corrcoef,0.658872,0.672099
+cohen_kappa,0.645652,0.657755
+top2_accuracy,0.989786,0.990099
+precision_micro,0.883008,0.887376
+recall_micro,0.883008,0.887376
+f1_micro,0.883008,0.887376
+precision_macro,0.566679,0.572654
+recall_macro,0.533723,0.536962
+f1_macro,0.545901,0.550086
+precision_weighted,0.861403,0.866291
+recall_weighted,0.883008,0.887376
+f1_weighted,0.868462,0.872763
+roc_auc_macro_ovr,0.973666,0.974257
